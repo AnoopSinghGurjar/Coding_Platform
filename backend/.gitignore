@@ -1,0 +1,12 @@
+node_modules/
+*.log
+*.class
+*.js
+*.txt
+*.py
+script.c
+script.cpp
+script.exe
+*.o
+*.out
+.env
